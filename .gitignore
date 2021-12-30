@@ -1,3 +1,9 @@
+#Vim file
+*.swp
+
+#Mac file
+*Store
+
 # Prerequisites
 *.d
 
